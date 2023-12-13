@@ -7,7 +7,7 @@ public class createnewTest {
 	
 	@Test
 	public void myTest() {
-		System.out.println("testing successfull");
+		System.out.println("testing successfully done");
 	}
 
 }
